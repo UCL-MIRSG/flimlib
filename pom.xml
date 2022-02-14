@@ -95,6 +95,7 @@ University of Wisconsin-Madison.</license.copyrightOwners>
 		<exists-maven-plugin.version>0.0.6</exists-maven-plugin.version>
 		<json-simple.version>1.1.1</json-simple.version>
 		<cmake.build.option>Release</cmake.build.option>
+		<scijava.platform.bits>arm64</scijava.platform.bits>
 	</properties>
 
 	<dependencies>
